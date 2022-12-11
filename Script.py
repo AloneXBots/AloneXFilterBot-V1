@@ -11,8 +11,8 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: KOYEB
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- TechMagazine-AutoFilterBot is a open source project. 
-- Source - https://github.com/itsyogieu/TechMagazine-AutoFilterBot
+- TamilMoviesGuys-AutoFilterBot is a Not open source project. 
+- Source - https://t.me/TamilMoviesGuys
 
 <b>DEVS:</b>
 - <a href=https://t.me/AloneX183>AʟᴏɴᴇX 🖤</a>"""
